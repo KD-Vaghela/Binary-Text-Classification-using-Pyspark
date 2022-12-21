@@ -10,4 +10,5 @@ The aim of the project is to create a model that can classify the text as postiv
 8.	Time – timestamp for the review
 9.	Summary – Brief summary of the review 
 10.	Text – text of the review
+
 Out of the available variables I used Text and Score variable for my project. The classification is done in Pyspark. I have used different algorithms like LinearSVC, Logistic Regression and Naive Bayes. The performance of LinearSVC was better than the other two algorithms.
